@@ -2,8 +2,8 @@
   "name": "validate",
   "description": "Validate object properties in javascript.",
   "version": "3.0.1",
-  "author": "Eivind Fjeldstad",
-  "repository": "eivindfjeldstad/validate",
+  "author": ["Eivind Fjeldstad","Jonathan Hadida"],
+  "repository": "Sheljohn/validate",
   "keywords": [
     "validation",
     "validate",
@@ -14,9 +14,8 @@
     "test": "make test"
   },
   "dependencies": {
-    "eivindfjeldstad-dot": "0.0.1",
-    "component-type": "1.0.0",
-    "typecast": "0.0.1"
+    "dot": "^1.0.0"
+    "component-type": "^1.0.0"
   },
   "devDependencies": {
     "should": "~2.1.0",
