@@ -1,13 +1,11 @@
 {
   "name": "validate",
-  "repo": "eivindfjeldstad/validate",
+  "repo": "Sheljohn/validate",
   "description": "Validate object properties",
-  "version": "3.0.1",
+  "version": "4.0.0",
   "keywords": ["validate", "object", "schema", "properties"],
   "dependencies": {
-    "component/type": "*",
-    "eivindfjeldstad/dot": "*",
-    "eivindfjeldstad/typecast": "*"
+    "component/type": "*"
   },
   "license": "MIT",
   "main": "index.js",

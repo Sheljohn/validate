@@ -1,4 +1,11 @@
 
+4.0.0 / 2017-05-15
+==================
+
+  * update dependencies
+  * remove require with try/catch
+  * improve required function
+
 3.0.1 / 2015-09-24
 ==================
 
